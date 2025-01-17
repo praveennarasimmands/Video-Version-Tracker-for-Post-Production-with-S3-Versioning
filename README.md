@@ -118,5 +118,3 @@ The **Video Version Tracker for Post-Production** with S3 Versioning improves th
 This project is licensed under the MIT License.
 
 ---
-
-Let me know if you need any further details!
